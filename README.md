@@ -6,26 +6,33 @@ Soy un entusiasta programador fullstack con una fuerte pasión por la creación 
 
 # 💻 Tecnologías:
 
-<div>
-  <div>
-    <p>Front End</p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,redux" />
-    </a>
-  </div>
-  <div>
-    <p>Back End</p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,sequelize,express" />
-    </a>
-  </div>
-  <div>
-    <p>Data Base</p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres" />
-    </a>
-  </div>
-</div>
+<table align="center">
+  <tbody>
+    <tr>
+      <td valign="top" width="33%">
+        <h3>Front End</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
+        </a>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,react,redux" />
+        </a>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Back End</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,sequelize,express" />
+        </a>
+      </td>
+      <td valign="top" width="33%">
+        <h3>Data Base</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=postgres" />
+        </a>
+      </td>
+      </tr>
+  </tbody>
+</table>
 <br>
 
 # 📧 Contacto:
